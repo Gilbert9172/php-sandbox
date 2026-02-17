@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php:*)",
+      "Bash(brew list:*)",
+      "WebFetch(domain:jennyuni.notion.site)",
+      "Bash(curl:*)",
+      "Bash(bash)"
+    ]
+  }
+}
